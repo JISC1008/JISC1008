@@ -43,16 +43,6 @@ My background in life-science data gives me a strong foundation in **rigorous mo
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://ossinsight.io">
-    <img src="https://ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user=JISC1008" />
-  </a>
-</p>
-
----
-
 ## 🌍 Open to Roles In
 
 - Senior Data Scientist
