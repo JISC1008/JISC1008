@@ -180,3 +180,15 @@ It closely mirrors real-world challenges in applied data science within healthca
   - Feature engineering across omics layers
 - **Focus:** reproducibility, transparency, and translational relevance
 
+---
+
+## 📚 Related Publication
+
+This project is inspired by and based on the following peer-reviewed study:
+
+**Taylor H et al.**  
+*Multiomic features associated with mucosal healing and inflammation in paediatric Crohn’s disease*  
+**Alimentary Pharmacology & Therapeutics**, 2020.  
+
+🔗 https://onlinelibrary.wiley.com/doi/10.1111/apt.16086
+
