@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/banner.png" alt="Profile Banner" />
+</p>
+
+---
+
 ## 👋 About Me
 
 I am a senior data scientist with 10+ years of experience working with **complex, high-dimensional datasets**, applying statistical modeling, machine learning, and data visualization to extract actionable insights.
