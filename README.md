@@ -50,3 +50,22 @@ My background in life-science data gives me a strong foundation in **rigorous mo
     <img src="https://ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user=JISC1008" />
   </a>
 </p>
+
+---
+
+## 🌍 Open to Roles In
+
+- Senior Data Scientist
+- Applied Scientist
+- Machine Learning Scientist
+- Analytics Lead
+- Data Science Consultant
+
+---
+
+## 🔗 Connect
+
+- 📧 jserracont@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ivan-serrano-086793140  
+
+> *From messy data to meaningful insight.*
