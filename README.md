@@ -56,7 +56,7 @@ My background in life-science data gives me a strong foundation in **rigorous mo
 ## 🔗 Connect
 
 - 📧 jserracont@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/www.linkedin.com/in/josé-iván-serrano-contreras-086793140
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-ivan-serrano-contreras/
 - 🧬 ORCID: https://orcid.org/0000-0001-8669-7571 
 
 > *From messy data to meaningful insight.*
