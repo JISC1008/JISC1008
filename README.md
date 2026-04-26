@@ -182,9 +182,9 @@ It closely mirrors real-world challenges in applied data science within healthca
 
 ---
 
-## 📚 Related Publication
+## 📚 Related Publication (Author’s Work)
 
-This project is inspired by and based on the following peer-reviewed study:
+This repository is a **portfolio-oriented, reproducible reimplementation** of analyses originally conducted by the author and published in the following peer-reviewed study:
 
 **Taylor H et al.**  
 *Multiomic features associated with mucosal healing and inflammation in paediatric Crohn’s disease*  
@@ -192,3 +192,4 @@ This project is inspired by and based on the following peer-reviewed study:
 
 🔗 https://onlinelibrary.wiley.com/doi/10.1111/apt.16086
 
+This project reflects analyses originally conducted by the author in a peer-reviewed clinical study and restructured here as a reproducible data science portfolio project.
