@@ -193,3 +193,39 @@ This repository is a **portfolio-oriented, reproducible reimplementation** of an
 🔗 https://onlinelibrary.wiley.com/doi/10.1111/apt.16086
 
 This project reflects analyses originally conducted by the author in a peer-reviewed clinical study and restructured here as a reproducible data science portfolio project.
+
+---
+# Project 2 | 📊 Repeated-Measures Machine Learning for Novel Metabolite Identification in GI Data
+
+**Clinical Data · NMR-based Metabolic Phenotyping · Microbiome Analysis**
+
+---
+
+## 📚 Related Publication (Author’s Contribution)
+
+This repository reflects analytical work conducted by the author and published in a peer-reviewed study, with a specific focus on **novel metabolite discovery using longitudinal modeling**.
+
+**Key author contribution**
+- Identified **stachyose in gastrointestinal samples for the first time** using **¹H-NMR-based metabolic profiling**
+- Applied **repeated-measures statistical modeling** combining:
+  - Univariate analysis
+  - Multivariate machine learning (dimensionality reduction, pattern discovery)
+- Demonstrated biologically meaningful temporal associations across individuals
+
+### My Role
+- Designed and executed the longitudinal statistical analysis
+- Performed NMR-based metabolite identification
+- Integrated repeated-measures modeling with multivariate ML
+- Interpreted findings in the context of diet–host interactions
+
+This finding represented a **previously unreported dietary oligosaccharide signal** in GI samples and became a **foundational insight for subsequent projects in personalised nutrition and diet–host interaction modeling**.
+
+## 📚 Related Publication (Author’s Work)
+
+**Dagbasi et al.**  
+*Diet shapes the metabolite profile in the intact human ileum, which affects PYY release*  
+**Science translational medicine**, 2024.  
+
+🔗 https://www.science.org/doi/10.1126/scitranslmed.adm8132
+
+This project represents the author’s contribution to the first identification of stachyose in GI samples using NMR-based metabolic phenotyping and repeated-measures machine learning, providing a key methodological and biological insight for personalised nutrition research.
